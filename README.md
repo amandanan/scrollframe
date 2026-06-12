@@ -31,7 +31,7 @@ avisa como instalá-lo.
 ## Instalação
 
 ```bash
-git clone https://github.com/<voce>/scrollframe.git
+git clone https://github.com/amandanan/scrollframe.git
 cd scrollframe
 python3 editar.py --help
 ```
